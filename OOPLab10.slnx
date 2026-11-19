@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CollectionsApp/CollectionsApp.csproj" />
+  <Project Path="SimpleClassLibrary/SimpleClassLibrary.csproj" />
+</Solution>
