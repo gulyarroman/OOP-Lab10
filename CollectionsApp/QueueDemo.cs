@@ -6,7 +6,7 @@ namespace CollectionsApp;
 /// <summary>Завдання 1: можливості класу Queue (черга, FIFO) для значень типів string, double та int.</summary>
 internal class QueueDemo
 {
-    // необобщена черга зберігає елементи як object, тому в одній черзі можуть бути значення різних типів
+    // неузагальнена черга зберігає елементи як object, тому в одній черзі можуть бути значення різних типів
     private readonly Queue queue = new();
 
     public void Run()
